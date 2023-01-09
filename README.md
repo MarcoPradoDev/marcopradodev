@@ -2,7 +2,7 @@ Hi, I'm Marco Prado.
 
 Student of software Engineer at UPC.
 
-## 🧐 About
+## 🤓 About
 
 ---
 
